@@ -1,4 +1,4 @@
-﻿$packageName = 'obs_mp'
+﻿$packageName = 'obs-mp'
 $installerType = 'EXE'
 $url = 'https://github.com/jp9000/obs-studio/releases/download/0.12.3/OBS-MP-0.12.3-Installer.exe'
 $silentArgs = '/S'

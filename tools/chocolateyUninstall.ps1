@@ -1,4 +1,4 @@
-$packageName = 'obs_mp';
+$packageName = 'obs-mp';
 $installerType = 'exe';
 $silentArgs = '/S';
 $validExitCodes = @(0);

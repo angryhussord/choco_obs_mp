@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>obs_mp</id>
+    <id>obs-mp</id>
     <title>Open Broadcaster Software - Multiplatform</title>
     <version>0.12.3</version>
     <authors>https://github.com/jp9000/OBS/graphs/contributors</authors>
