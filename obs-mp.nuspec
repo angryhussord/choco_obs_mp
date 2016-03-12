@@ -13,6 +13,9 @@
 
 OBS MultiPlatform will eventually support many of the advanced requested features not present in the original OBS, such as multiple stream outputs and scene previewing. It does not have these features in this release.</description>
     <projectUrl>https://obsproject.com/</projectUrl>
+    <packageSourceUrl>https://github.com/angryhussord/choco_obs_mp</packageSourceUrl>
+    <projectSourceUrl>https://github.com/jp9000/obs-studio</projectSourceUrl>
+    <bugTrackerUrl>https://obsproject.com/mantis/my_view_page.php</bugTrackerUrl>
     <tags>twitch open foss broadcast streaming video recording</tags>
     <copyright></copyright>
     <licenseUrl>https://github.com/jp9000/OBS/blob/master/COPYING</licenseUrl>
