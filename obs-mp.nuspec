@@ -16,7 +16,7 @@ OBS MultiPlatform will eventually support many of the advanced requested feature
     <packageSourceUrl>https://github.com/angryhussord/choco_obs_mp</packageSourceUrl>
     <projectSourceUrl>https://github.com/jp9000/obs-studio</projectSourceUrl>
     <bugTrackerUrl>https://obsproject.com/mantis/my_view_page.php</bugTrackerUrl>
-    <tags>twitch open foss broadcast streaming video recording</tags>
+    <tags>twitch open foss broadcast streaming video recording admin</tags>
     <copyright></copyright>
     <licenseUrl>https://github.com/jp9000/OBS/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
