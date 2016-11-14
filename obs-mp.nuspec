@@ -4,14 +4,12 @@
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>obs-mp</id>
-    <title>Open Broadcaster Software - Multiplatform</title>
-    <version>0.14.2</version>
+    <title>[Deprecated] Open Broadcaster Software - Multiplatform</title>
+    <version>0.14.2.11142016</version>
     <authors>https://github.com/jp9000/OBS/graphs/contributors</authors>
     <owners>angryhussord</owners>
     <summary>Open Broadcaster Software is free and open source software for video recording and live streaming.</summary>
-    <description>OBS MultiPlatform is a complete rewrite of the original OBS from the ground up, with the main goals of course being multiplatform support, a more thorough feature set, and a much more powerful API. 
-
-OBS MultiPlatform will eventually support many of the advanced requested features not present in the original OBS, such as multiple stream outputs and scene previewing. It does not have these features in this release.</description>
+    <description>This package has been replaced by OBS Studio. OBS Multiplatform was renamed and so a new package name was given to it.</description>
     <projectUrl>https://obsproject.com/</projectUrl>
     <packageSourceUrl>https://github.com/angryhussord/choco_obs_mp</packageSourceUrl>
     <projectSourceUrl>https://github.com/jp9000/obs-studio</projectSourceUrl>
@@ -20,13 +18,9 @@ OBS MultiPlatform will eventually support many of the advanced requested feature
     <copyright></copyright>
     <licenseUrl>https://github.com/jp9000/OBS/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/angryhussord/choco_obs/master/obs_icon.PNG</iconUrl>
-    <!--<dependencies>
-      <dependency id="" version="" />
-    </dependencies>-->
+    <dependencies>
+      <dependency id="obs-studio" version="" />
+    </dependencies>
     <releaseNotes>https://obsproject.com/changelog</releaseNotes>
   </metadata>
-  <files>
-    <file src="tools\**" target="tools" />
-  </files>
 </package>
